@@ -1,7 +1,7 @@
 # gitCommands
-'Command line instructions
+-Command line instructions
 
-''Git global setup
+--Git global setup
 git config --global user.name "marouane touzani"
 git config --global user.email "touzanimarouane@gmail.com"
 
