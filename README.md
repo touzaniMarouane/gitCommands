@@ -2,7 +2,7 @@
 ## Command line instructions
 
 ### Git global setup
-```git
+```bash
 git config --global user.name "user name"
 git config --global user.email "your@email"
 ```
