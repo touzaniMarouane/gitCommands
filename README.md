@@ -2,11 +2,11 @@
 ## Command line instructions
 
 ### Git global setup
-git config --global user.name "marouane touzani"
-git config --global user.email "touzanimarouane@gmail.com"
+git config --global user.name "user name"
+git config --global user.email "your@email"
 
 ### Create a new repository
-git clone https://gitlab.com/marouane.touzani/notificateur-pdt.git
+git clone https://github.com/user.name/repo-name.git
 ```bash
 touch README.md
 git add README.md
