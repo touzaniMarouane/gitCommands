@@ -2,8 +2,10 @@
 ## Command line instructions
 
 ### Git global setup
+```git
 git config --global user.name "user name"
 git config --global user.email "your@email"
+```
 
 ### Create a new repository
 git clone https://github.com/user.name/repo-name.git
