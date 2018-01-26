@@ -20,7 +20,7 @@ git push -u origin master
 ```bash
 cd existing_folder
 git init
-git remote add origin https://gitlab.com/marouane.touzani/notificateur-pdt.git
+git remote add origin https://github.com/user.name/repo-name.git
 git add .
 git commit -m "Initial commit"
 git push -u origin master
@@ -30,7 +30,7 @@ git push -u origin master
 ```bash
 cd existing_repo
 git remote rename origin old-origin
-git remote add origin https://gitlab.com/marouane.touzani/notificateur-pdt.git
+git remote add origin https://github.com/user.name/repo-name.git
 git push -u origin --all
 git push -u origin --tags
 ```
